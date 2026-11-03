@@ -1,89 +1,132 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:79c0ff&height=190&section=header&text=Netz&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20UI%2FUX%20Designer&descSize=20&descAlignY=60" width="100%" />
+<!-- ╔══════════════════════════════════════════╗
+     ║  netzkompulsmos · profile README (pro)   ║
+     ╚══════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=560&lines=I+build+things+for+the+web;I+design+clean%2C+usable+interfaces;Learning+in+public+from+Phnom+Penh;I'm+the+man+who+can't+be+moved" alt="Typing animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0b2a4a,100:1f6feb&height=230&section=header&text=NETZ&fontSize=80&fontColor=79c0ff&animation=fadeIn&fontAlignY=42&desc=%7B%20developer%20%2B%20ui%2Fux%20designer%20%7D&descSize=20&descAlignY=66&descColor=c9d1d9" width="100%" alt="header" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Phnom_Penh,_Cambodia-1f6feb?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-58a6ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Open_to-Collabs-3fb950?style=for-the-badge&labelColor=0d1117" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=620&height=40&lines=%24+whoami+%E2%86%92+netz;%24+location+%E2%86%92+Phnom+Penh%2C+Cambodia;%24+building+%E2%86%92+clean+interfaces+%26+solid+backends;%24+status+%E2%86%92+can't+be+moved" alt="terminal typing" />
 
-## 👨‍💻 About me
+<br/>
 
-```php
-<?php
+<img src="https://img.shields.io/badge/-PHNOM_PENH-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/-FULL--STACK_LEARNER-0d1117?style=flat-square&logo=codeforces&logoColor=3fb950&labelColor=0d1117&color=238636" />
+<img src="https://img.shields.io/badge/-UI%2FUX-0d1117?style=flat-square&logo=figma&logoColor=f778ba&labelColor=0d1117&color=bf3989" />
+<img src="https://img.shields.io/badge/-OPEN_TO_COLLAB-0d1117?style=flat-square&logo=github&logoColor=e3b341&labelColor=0d1117&color=9e6a03" />
 
-class Netz
-{
-    public string $name     = "Netz";
-    public string $location = "Phnom Penh, Cambodia 🇰🇭";
-    public array  $roles    = ["Web Developer", "UI/UX Designer"];
-    public array  $learning = ["PHP", "JavaScript", "MySQL", "Figma"];
-    public string $motto    = "I'm the man who can't be moved.";
+</div>
 
-    public function currentFocus(): string
-    {
-        return "Building an e-commerce project and sharpening my design eye.";
-    }
-}
+<br/>
+
+## `~/about`
+
+```ts
+// netz.config.ts
+export const netz = {
+  name: "Netz",
+  handle: "netzkompulsmos",
+  location: "Phnom Penh, Cambodia 🇰🇭",
+  roles: ["Web Developer", "UI/UX Designer"],
+  stack: {
+    frontend: ["HTML5", "CSS3", "JavaScript"],
+    backend:  ["PHP", "MySQL"],
+    design:   ["Figma", "Design Systems", "Prototyping"],
+    tools:    ["Git", "GitHub", "VS Code"],
+  },
+  currently: {
+    building: "E-commerce platform",
+    learning: ["Advanced PHP", "JavaScript ES6+", "Responsive UI"],
+  },
+  principles: ["Clarity over cleverness", "Ship small, ship often", "Design is how it works"],
+  motto: "I'm the man who can't be moved.",
+} as const;
 ```
 
----
+<br/>
 
-## 🛠️ Tech stack
+## `~/stack`
 
-**Languages & Web**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github,vscode&theme=dark&perline=9" alt="tech stack" />
 
-**Design & Tools**
+</div>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br/>
 
----
+## `~/projects`
 
-## 🎨 Design approach
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-| Principle | What it means to me |
-|---|---|
-| **Clarity first** | If a user has to think about where to click, the design failed |
-| **Consistency** | One palette, one type scale, one spacing system |
-| **Accessibility** | Good contrast, readable sizes, keyboard friendly |
-| **Code meets design** | I design it in Figma, then build it myself |
+### 🛒 [Ecommerce](https://github.com/netzkompulsmos/Ecommerce)
+Online store built while mastering full-stack fundamentals: product listing, cart logic, and database design.
 
----
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-## 🚀 Featured projects
+    </td>
+    <td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Ecommerce**](https://github.com/netzkompulsmos/Ecommerce) | An online store built while learning full-stack web development | PHP, MySQL, CSS |
-| 🔜 **Portfolio site** | Personal site showcasing my UI/UX case studies | HTML, CSS, JS |
-| 🔜 **UI kit** | A small reusable component set designed in Figma | Figma |
+### 🎨 Portfolio *(in progress)*
+Personal site with UI/UX case studies, designed in Figma and hand-coded.
 
----
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-## 📫 Let's connect
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="mailto:netzkompulsmos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/netzkompulsmos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Add your own links below, then remove these comment lines
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_BEHANCE_URL"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="YOUR_DRIBBBLE_URL"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  -->
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79c0ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+## `~/stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=netzkompulsmos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9&ring_color=1f6feb" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netzkompulsmos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=netzkompulsmos&bg_color=0d1117&color=79c0ff&line=1f6feb&point=3fb950&area=true&area_color=1f6feb&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
+
+<br/>
+
+## `~/roadmap`
+
+```diff
++ [x] Join GitHub
++ [x] Fork & study first project
+! [~] Build 3 original projects
+! [~] Launch portfolio site
+- [ ] Publish 2 UI/UX case studies
+- [ ] Make first open-source contribution
+- [ ] Learn a JS framework (React / Vue)
+```
+
+<br/>
+
+## `~/contact`
+
+<div align="center">
+
+<a href="mailto:netzkompulsmos@gmail.com"><img src="https://img.shields.io/badge/EMAIL-netzkompulsmos%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=30363d" /></a>
+<a href="https://github.com/netzkompulsmos"><img src="https://img.shields.io/badge/GITHUB-netzkompulsmos-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=30363d" /></a>
+
+<!-- Add yours, then uncomment:
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0d1117&color=30363d" /></a>
+<a href="YOUR_BEHANCE_URL"><img src="https://img.shields.io/badge/BEHANCE-portfolio-0d1117?style=for-the-badge&logo=behance&logoColor=1769ff&labelColor=0d1117&color=30363d" /></a>
+-->
+
+<br/><br/>
+
+<sub>`$ exit 0` · built with care in Phnom Penh 🇰🇭</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=60&section=footer" width="100%" alt="footer" />

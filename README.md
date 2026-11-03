@@ -18,31 +18,6 @@
 </div>
 
 <br/>
-
-## `~/about`
-
-```ts
-// netz.config.ts
-export const netz = {
-  name: "Netz",
-  handle: "netzkompulsmos",
-  location: "Phnom Penh, Cambodia 🇰🇭",
-  roles: ["Web Developer", "UI/UX Designer"],
-  stack: {
-    frontend: ["HTML5", "CSS3", "JavaScript"],
-    backend:  ["PHP", "MySQL"],
-    design:   ["Figma", "Design Systems", "Prototyping"],
-    tools:    ["Git", "GitHub", "VS Code"],
-  },
-  currently: {
-    building: "E-commerce platform",
-    learning: ["Advanced PHP", "JavaScript ES6+", "Responsive UI"],
-  },
-  principles: ["Clarity over cleverness", "Ship small, ship often", "Design is how it works"],
-  motto: "I'm the man who can't be moved.",
-} as const;
-```
-
 <br/>
 
 ## `~/stack`

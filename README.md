@@ -58,18 +58,6 @@ Personal site with UI/UX case studies, designed in Figma and hand-coded.
 </table>
 
 <br/>
-
-## `~/stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=netzkompulsmos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=3fb950&text_color=c9d1d9&ring_color=1f6feb" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netzkompulsmos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=netzkompulsmos&bg_color=0d1117&color=79c0ff&line=1f6feb&point=3fb950&area=true&area_color=1f6feb&hide_border=true" width="100%" alt="activity graph" />
-
-</div>
-
 <br/>
 
 ## `~/roadmap`

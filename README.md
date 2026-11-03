@@ -85,19 +85,6 @@ class Netz
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=netzkompulsmos&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
----
-
-## 🎯 Goals
-
-- [x] Join GitHub
-- [x] Build my first project
-- [ ] Ship 3 original projects
-- [ ] Launch my portfolio site
-- [ ] Publish 2 UI/UX case studies
-- [ ] Contribute to an open-source project
-
----
-
 ## 📫 Let's connect
 
 <p align="center">

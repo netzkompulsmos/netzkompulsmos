@@ -43,9 +43,6 @@ Online store built while mastering full-stack fundamentals: product listing, car
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-    </td>
-    <td width="50%" valign="top">
-
 ### 🎨 Portfolio *(in progress)*
 Personal site with UI/UX case studies, designed in Figma and hand-coded.
 
@@ -53,7 +50,6 @@ Personal site with UI/UX case studies, designed in Figma and hand-coded.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-    </td>
   </tr>
 </table>
 
